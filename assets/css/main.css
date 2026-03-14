@@ -4008,7 +4008,7 @@ input, select, textarea {
 		background: #000;
 		width: 100%;
 		overflow: hidden;
-		display: flex;
+		display: block;
 		min-height: 0;
 	}
 
