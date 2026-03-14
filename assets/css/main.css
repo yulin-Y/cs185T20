@@ -2552,7 +2552,7 @@ input, select, textarea {
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #5052b5;
+					color: #5086b5;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
@@ -3063,11 +3063,11 @@ input, select, textarea {
 				opacity: 1;
 			}
 
-		.spotlights > section:nth-child(2) {
+		.spotlights > section:nth-child(odd) {
 			background-color: rgba(0, 0, 0, 0.05);
 		}
 
-		.spotlights > section:nth-child(3) {
+		.spotlights > section:nth-child(even) {
 			background-color: rgba(0, 0, 0, 0.1);
 		}
 
@@ -3256,7 +3256,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #4f3997;
+			background-color: #5061b5;
 		}
 
 		.wrapper.style3-alt {
@@ -3910,7 +3910,7 @@ input, select, textarea {
 
 /* Team section */
 	.team-section {
-		background: #3c42b5;
+		background: #5e42a6;
 		text-align: center;
 		padding: 6em 0;
 	}
